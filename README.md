@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nishikant1103
-- 👀 I’m interested in Python and its application in real world scenarios
-- 🌱 I’m currently learning advanced application of python and preparing PCPP certification offered by Python Institute
-- 💞️ I’m looking to collaborate on Python projects, queries, problem solving
+- I am developing my skills as a Android developer in my current job
+- 💞️ I’m looking to collaborate on Android projects, queries, problem solving
 - 📫 How to reach me -->> https://www.linkedin.com/in/nishikant-choudhary-16a68167/
 
 <!---
